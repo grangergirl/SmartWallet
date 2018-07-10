@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart Wallet</string>
+    <string name="action_settings">Settings</string>
+    <string name="Add_New">Add Transaction Manually</string>
+    <string name="Display_plota">View Stats</string>
+    <string name="Find_Wallet">Find Wallet</string>
+    <string name="Track_Wallet">Track Wallet</string>
+    <string name="edit">Edit Transaction</string>
+    <string name="delete">Delete Transaction</string>
+    <string name="title_activity_display_contact">Display Transactions</string>
+    <string name="amount">Amount</string>
+    <string name="type">Type</string>
+    <string name="Timestamp">Time</string>
+    <string name="Service_started">Service_status</string>
+    <string name="save">Save</string>
+    <string name="deleteTransaction">Are you sure you want to delete it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
